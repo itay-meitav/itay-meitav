@@ -1,14 +1,8 @@
 <h2>Hello, World</h2>
 <div>
-  <img src=https://img.shields.io/github/followers/itay-meitav?label=Follow />
   <img src=https://komarev.com/ghpvc/?username=itay-meitav alt=jaayperez/>
-</div>
-
-
-<h2>Find Me On</h2>
-<p>
   <a href="https://www.linkedin.com/in/itay-meitav/"><img src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86" target="_blank" alt="LinkedIn"></a>
-</p>
+</div>
 
 <!--
 **itay-meitav/itay-meitav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
